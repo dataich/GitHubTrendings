@@ -1,0 +1,14 @@
+strings:
+  paths: GitHubTrendings/Resources/Base.lproj/Localizable.strings
+  templateName: structured-swift4
+  output: GitHubTrendings/Generated/strings.swift
+xcassets:
+  paths:
+   - GitHubTrendings/Assets.xcassets
+  templateName: swift4
+  output: GitHubTrendings/Generated/assets.swift
+storyboards:
+  paths:
+   - GitHubTrendings/Modules
+  templateName: swift4
+  output: GitHubTrendings/Generated/storyboards.swift

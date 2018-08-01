@@ -1,0 +1,3 @@
+.bundle
+fastlane/report.xml
+fastlane/test_output/

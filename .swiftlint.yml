@@ -1,0 +1,8 @@
+disabled_rules:
+  - identifier_name
+included:
+  - GitHubTrendings
+excluded:
+  - Pods
+  - GitHubTrendings/Generated
+
